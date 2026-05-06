@@ -1,10 +1,10 @@
-# 🚀 Welcome to [Agency Name]
-### [Insert a punchy one-sentence tagline here, e.g., "Turning Complex Ideas into Scalable Digital Realities."]
+# 🚀 Welcome to Bit and Bytes
+### Turning Logical Bits into Scalable Digital Realities
 
 ---
 
 ## 💡 About Us
-At **[Agency Name]**, we bridge the gap between vision and execution. We specialize in building high-end digital products that prioritize user experience and technical excellence. Our team is a collective of designers, developers, and strategists dedicated to helping brands grow in the digital age.
+At **Bit and Bytes**, we bridge the gap between vision and execution. We specialize in building high-end digital products that prioritize user experience and technical excellence. Our team is a collective of designers, developers, and strategists dedicated to helping brands grow in the digital age.
 
 ---
 
@@ -32,12 +32,11 @@ We provide end-to-end solutions tailored to your business needs:
 ## 📬 Let's Connect
 Ready to start your next project? Get in touch through our official channels:
 
-[![Website](https://img.shields.io/badge/Website-Visit%20Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/your-agency)
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@youragency.com)
+[![Website](https://img.shields.io/badge/Website-Visit%20Site-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bitandbytes.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/bit-and-bytes)
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@bitandbytes.com)
 
 ---
 <p align="center">
-  <i>© 2026 [Agency Name]. Empowering your digital journey.</i>
+  <i>© 2026 Bit and Bytes. Empowering your digital journey.</i>
 </p>
-
