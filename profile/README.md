@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🌌 Bit and Bytes LLC
-### *Turning Logical Bits into Scalable Digital Realities*
+# 🚀 Bit and Bytes LLC
+### *Engineering the Future, One Bit at a Time*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Software_Engineering-blueviolet?style=for-the-badge" />
@@ -30,14 +30,37 @@
 
 ---
 
-## 💎 WHY WORK WITH US?
+## 💻 OUR TECH STACK
+
+### 🧠 AI / Machine Learning & Data Science
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🌐 Full-Stack Development
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+### ☁️ Infrastructure & Databases
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 💎 WHY PARTNER WITH US?
 
 > **"Precision in every bit, excellence in every byte."**
 
-* **⚡ Velocity & Agility:** We use rapid iteration cycles so you see progress in real-time.
-* **🛠 Modern Stack:** We build with future-proof tech (TypeScript, Rust, Go, Python) to ensure your product never goes obsolete.
-* **🤝 Full-Cycle Partnership:** From the first whiteboard session to the final deployment and beyond.
-* **📈 Growth-First Mindset:** We focus on your business KPIs, ensuring every line of code adds value.
+* **⚡ Velocity & Agility:** Rapid iteration cycles so you see progress in real-time.
+* **🛠 Modern Stack:** We build with future-proof tech to ensure your product never goes obsolete.
+* **🤝 Full-Cycle Partnership:** From whiteboard session to final deployment and beyond.
 
 ---
 
@@ -48,7 +71,6 @@
 
 [![Website](https://img.shields.io/badge/Official_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.bitandbytes.net/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bit-and-bytes-llc)
-
 [![Instagram](https://img.shields.io/badge/@BitAndBytes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bitandbytes_llc/)
 [![Facebook](https://img.shields.io/badge/Facebook_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/BitnBytesLLC)
 [![Email](https://img.shields.io/badge/Direct_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@bitandbytes.net)
