@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Bit and Bytes LLC
+# Bit and Bytes LLC
 ### *Engineering the Future, One Bit at a Time*
 
 <p align="center">
@@ -11,28 +11,28 @@
 
 ---
 
-### 💡 THE VISION
+### THE VISION
 **At Bit and Bytes, we don't just write code; we bridge the gap between vision and execution.** We specialize in high-end digital products that prioritize user experience and technical excellence. Our collective of designers, developers, and strategists is dedicated to helping brands dominate the digital age.
 
 </div>
 
 ---
 
-## 🛠 CORE CAPABILITIES
+## CORE CAPABILITIES
 
 | | Service | Expertise |
 | :--- | :--- | :--- |
-| 📱 | **Mobile Ecosystems** | Native & Cross-platform apps (iOS/Android) built for infinite scale. |
-| 🌐 | **Web Architecture** | Modern, lightning-fast platforms using React, Next.js, and robust backends. |
-| 🧠 | **Applied Intelligence** | Custom AI/ML integrations to automate logic and predict market trends. |
-| ☁️ | **Cloud Mastery** | DevOps, secure infrastructure, and automated CI/CD pipelines. |
-| 🎨 | **Experience Design** | High-fidelity UI/UX that converts users into brand advocates. |
+ **Mobile Ecosystems** | Native & Cross-platform apps (iOS/Android) built for infinite scale. |
+ **Web Architecture** | Modern, lightning-fast platforms using React, Next.js, and robust backends. |
+ **Applied Intelligence** | Custom AI/ML integrations to automate logic and predict market trends. |
+ **Cloud Mastery** | DevOps, secure infrastructure, and automated CI/CD pipelines. |
+ **Experience Design** | High-fidelity UI/UX that converts users into brand advocates. |
 
 ---
 
-## 💻 OUR TECH STACK
+## OUR TECH STACK
 
-### ⚡ Top Programming Languages
+### Top Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,13 +41,13 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🧠 AI / Machine Learning & Data Science
+### AI / Machine Learning & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🌐 Frameworks & Infrastructure
+### Frameworks & Infrastructure
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/rails-%23CC342D.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
@@ -56,19 +56,19 @@
 
 ---
 
-## 💎 WHY PARTNER WITH US?
+## WHY PARTNER WITH US?
 
 > **"Precision in every bit, excellence in every byte."**
 
-* **⚡ Velocity & Agility:** Rapid iteration cycles so you see progress in real-time.
-* **🛠 Modern Stack:** We build with future-proof tech to ensure your product never goes obsolete.
-* **🤝 Full-Cycle Partnership:** From whiteboard session to final deployment and beyond.
+* ** Velocity & Agility:** Rapid iteration cycles so you see progress in real-time.
+* ** Modern Stack:** We build with future-proof tech to ensure your product never goes obsolete.
+* ** Full-Cycle Partnership:** From whiteboard session to final deployment and beyond.
 
 ---
 
 <div align="center">
 
-## 📬 SECURE A CONSULTATION
+## SECURE A CONSULTATION
 **Ready to transform your business? Choose your preferred channel:**
 
 [![Website](https://img.shields.io/badge/Official_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.bitandbytes.net/)
@@ -79,7 +79,7 @@
 
 ---
 
-### 🏢 [Bit and Bytes LLC](https://www.bitandbytes.net/)
+### [Bit and Bytes LLC](https://www.bitandbytes.net/)
 *Engineering the Future, One Bit at a Time.* © 2026 Bit and Bytes LLC. All rights reserved.
 
 </div>
