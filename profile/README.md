@@ -36,7 +36,7 @@ Ready to start your next project? Get in touch through our official channels:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bit-and-bytes-llc)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bitandbytes_llc/)
 [![Facebook](https://img.shields.io/badge/Facebook-Like-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/BitnBytesLLC)
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@bitandbytes.net)
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@bitandbytes.net)
 
 ---
 <p align="center">
