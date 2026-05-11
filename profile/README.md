@@ -60,9 +60,9 @@
 
 > **"Precision in every bit, excellence in every byte."**
 
-* ** Velocity & Agility:** Rapid iteration cycles so you see progress in real-time.
-* ** Modern Stack:** We build with future-proof tech to ensure your product never goes obsolete.
-* ** Full-Cycle Partnership:** From whiteboard session to final deployment and beyond.
+*  Velocity & Agility: Rapid iteration cycles so you see progress in real-time.
+*  Modern Stack: We build with future-proof tech to ensure your product never goes obsolete.
+*  Full-Cycle Partnership: From whiteboard session to final deployment and beyond.
 
 ---
 
