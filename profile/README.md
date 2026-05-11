@@ -71,8 +71,8 @@
 ## SECURE A CONSULTATION
 **Ready to transform your business? Choose your preferred channel:**
 
-[![Website](https://img.shields.io/badge/Official_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.bitandbytes.net/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bit-and-bytes-llc)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.bitandbytes.net/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bit-and-bytes-llc)
 [![Instagram](https://img.shields.io/badge/@BitAndBytes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bitandbytes_llc/)
 [![Facebook](https://img.shields.io/badge/Facebook_Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/BitnBytesLLC)
 [![Email](https://img.shields.io/badge/Direct_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@bitandbytes.net)
