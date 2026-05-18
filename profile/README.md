@@ -64,7 +64,11 @@
       <p><strong>Smarter products, real outcomes.</strong><br/>
       Models and pipelines that automate decisions and unlock insights.</p>
       <br/>
+<<<<<<< HEAD
       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=4" width="360" alt="AI and machine learning" />
+=======
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,opencv&theme=dark&perline=4" width="360" alt="AI and machine learning" />
+>>>>>>> dae38ba6e0407e52e5a6b201b90313b5fd819235
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
