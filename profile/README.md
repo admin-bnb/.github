@@ -1,13 +1,9 @@
 <div align="center">
 
-<<<<<<< HEAD
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8eef5,100:d0dae8&height=160&section=header" width="100%" alt="" />
 </picture>
-=======
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header" width="100%" alt="" />
->>>>>>> 46c4bbb3b8dae1244e137b58367d448e8272dd0a
 
 <p align="center">
   <img src="assets/bnb-logo.webp" alt="Bit and Bytes LLC" width="280" style="margin-top: -110px; margin-bottom: -10px;" />
@@ -87,14 +83,10 @@
       <p><strong>Smarter products, real outcomes.</strong><br/>
       Models and pipelines that automate decisions and unlock insights.</p>
       <br/>
-<<<<<<< HEAD
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=4" />
         <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=light&perline=4" width="360" alt="AI and machine learning" />
       </picture>
-=======
-       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=4" width="360" alt="AI and machine learning" />
->>>>>>> 46c4bbb3b8dae1244e137b58367d448e8272dd0a
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
@@ -240,12 +232,8 @@
 
 **[Bit and Bytes LLC](https://www.bitandbytes.net/)** *Engineering the Future, One Bit at a Time.* © 2026 Bit and Bytes LLC. All rights reserved.
 
-<<<<<<< HEAD
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8eef5,100:d0dae8&height=100&section=footer" width="100%" alt="" />
 </picture>
-=======
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
->>>>>>> 46c4bbb3b8dae1244e137b58367d448e8272dd0a
 </div>
