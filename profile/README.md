@@ -6,10 +6,7 @@
 </picture>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/bnb-logo.webp" />
-    <img src="assets/bnb-logo-light.webp" alt="Bit and Bytes LLC" width="280" style="margin-top: -110px; margin-bottom: -10px;" />
-  </picture>
+  <img src="assets/bnb-logo-card.svg" alt="Bit and Bytes LLC" width="320" style="margin-top: -110px; margin-bottom: -10px;" />
 </p>
 
 ### *Engineering the Future, One Bit at a Time*
