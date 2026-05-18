@@ -1,8 +1,10 @@
 <div align="center">
 
-<a href="https://www.bitandbytes.net/">
-  <img src="assets/header-banner.svg" alt="Bit and Bytes LLC" width="100%" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header" width="100%" alt="" />
+
+<p align="center">
+  <img src="assets/bnb-logo.webp" alt="Bit and Bytes LLC" width="280" style="margin-top: -110px; margin-bottom: -10px;" />
+</p>
 
 ### *Engineering the Future, One Bit at a Time*
 
@@ -64,11 +66,7 @@
       <p><strong>Smarter products, real outcomes.</strong><br/>
       Models and pipelines that automate decisions and unlock insights.</p>
       <br/>
-<<<<<<< HEAD
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=4" width="360" alt="AI and machine learning" />
-=======
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,opencv&theme=dark&perline=4" width="360" alt="AI and machine learning" />
->>>>>>> dae38ba6e0407e52e5a6b201b90313b5fd819235
+       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=4" width="360" alt="AI and machine learning" />
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
@@ -208,5 +206,5 @@
 
 **[Bit and Bytes LLC](https://www.bitandbytes.net/)** *Engineering the Future, One Bit at a Time.* © 2026 Bit and Bytes LLC. All rights reserved.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
