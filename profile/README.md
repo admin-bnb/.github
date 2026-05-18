@@ -210,7 +210,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:info@bitandbytes.net" title="Email"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/mail.svg?color=%23ffffff" /><img src="https://api.iconify.design/lucide/mail.svg?color=%23171717" width="48" height="48" alt="Email" /></picture></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#" title="Projects"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/folder-kanban.svg?color=%23ffffff" /><img src="https://api.iconify.design/lucide/folder-kanban.svg?color=%23171717" width="48" height="48" alt="Projects" /></picture></a>
+  <a href="https://www.bitandbytes.net/portfolio" title="Projects"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/folder-kanban.svg?color=%23ffffff" /><img src="https://api.iconify.design/lucide/folder-kanban.svg?color=%23171717" width="48" height="48" alt="Projects" /></picture></a>
 </p>
 
 <br/>
