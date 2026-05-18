@@ -35,7 +35,7 @@
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/layers.svg?color=%23ffffff" /><img src="https://api.iconify.design/lucide/layers.svg?color=%23171717" width="28" height="28" style="vertical-align: middle;" alt="" /></picture> STACK
 
-<!-- https://github.com/tandpfun/skill-icons -->
+<!-- https://github.com/syvixor/skills-icons — auto light/dark via SVG prefers-color-scheme -->
 
 **The technologies we use every day** — proven tools, modern workflows, and stacks built to scale with your product.
 
@@ -47,10 +47,7 @@
       <p><strong>Logic that powers everything.</strong><br/>
       Core languages for web, mobile backends, and intelligent systems.</p>
       <br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,ts,ruby,html,css&theme=dark&perline=6" />
-        <img src="https://skillicons.dev/icons?i=python,js,ts,ruby,html,css&theme=light&perline=6" width="520" alt="Languages" />
-      </picture>
+      <img src="https://skills.syvixor.com/api/icons?i=python,js,ts,ruby,html,css&amp;perline=6" width="520" alt="Languages" />
     </td>
     <td width="50%" valign="top" align="center">
       <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/layout-template.svg?color=%23ffffff" /><img src="https://api.iconify.design/lucide/layout-template.svg?color=%23171717" width="44" height="44" alt="" /></picture>
@@ -58,10 +55,7 @@
       <p><strong>Interfaces users love.</strong><br/>
       Responsive, polished UIs with component-driven frameworks.</p>
       <br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,bootstrap,sass,tailwind&theme=dark&perline=5" />
-        <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,sass,tailwind&theme=light&perline=5" width="440" alt="Frontend" />
-      </picture>
+      <img src="https://skills.syvixor.com/api/icons?i=react,nextjs,bootstrap,sass,tailwind&amp;perline=5" width="440" alt="Frontend" />
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
@@ -72,10 +66,7 @@
       <p><strong>Reliable data. Robust APIs.</strong><br/>
       Server-side architecture and databases built for performance.</p>
       <br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,rails,postgres,mongodb,redis&theme=dark&perline=5" />
-        <img src="https://skillicons.dev/icons?i=nodejs,rails,postgres,mongodb,redis&theme=light&perline=5" width="440" alt="Backend and databases" />
-      </picture>
+      <img src="https://skills.syvixor.com/api/icons?i=nodejs,rails,postgres,mongodb,redis&amp;perline=5" width="440" alt="Backend and databases" />
     </td>
     <td width="50%" valign="top" align="center">
       <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/bot.svg?color=%23ffffff" /><img src="https://api.iconify.design/lucide/bot.svg?color=%23171717" width="44" height="44" alt="" /></picture>
@@ -83,10 +74,7 @@
       <p><strong>Smarter products, real outcomes.</strong><br/>
       Models and pipelines that automate decisions and unlock insights.</p>
       <br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark&perline=4" />
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=light&perline=4" width="360" alt="AI and machine learning" />
-      </picture>
+      <img src="https://skills.syvixor.com/api/icons?i=pytorch,tensorflow,sklearn,opencv&amp;perline=4" width="360" alt="AI and machine learning" />
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
@@ -97,10 +85,7 @@
       <p><strong>Ship faster. Sleep better.</strong><br/>
       Infrastructure, tooling, and design systems that keep teams productive.</p>
       <br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,git,vscode,figma&theme=dark&perline=7" />
-        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,git,vscode,figma&theme=light&perline=7" width="620" alt="DevOps and cloud" />
-      </picture>
+      <img src="https://skills.syvixor.com/api/icons?i=aws,docker,kubernetes,github,git,vscode,figma&amp;perline=7" width="620" alt="DevOps and cloud" />
     </td>
   </tr>
 </table>
