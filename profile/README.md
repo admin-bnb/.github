@@ -1,8 +1,8 @@
 <div align="center">
 
-<p align="center">
-  <img src="assets/bnb-logo.webp" alt="Bit and Bytes LLC" width="280" />
-</p>
+<a href="https://www.bitandbytes.net/">
+  <img src="assets/header-banner.svg" alt="Bit and Bytes LLC" width="100%" />
+</a>
 
 ### *Engineering the Future, One Bit at a Time*
 
@@ -27,98 +27,156 @@
 
 <!-- https://github.com/tandpfun/skill-icons -->
 
-<h3 align="left">Languages</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,ruby,html,css&theme=dark&perline=6" width="520" alt="Languages" />
-</p>
-
-<br/>
-
-<h3 align="left">Frontend</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,sass,tailwind&theme=dark&perline=5" width="440" alt="Frontend" />
-</p>
-
-<br/>
-
-<h3 align="left">Backend & Databases</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,rails,postgres,mongodb,redis&theme=dark&perline=5" width="440" alt="Backend and databases" />
-</p>
-
-<br/>
-
-<h3 align="left">AI / Machine Learning</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,opencv&theme=dark&perline=4" width="360" alt="AI and machine learning" />
-</p>
-
-<br/>
-
-<h3 align="left">DevOps & Cloud</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,git,vscode,figma&theme=dark&perline=7" width="620" alt="DevOps and cloud" />
-</p>
-
----
-
-## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23ffffff" width="24" height="24" style="vertical-align: middle;" alt="" /> CORE CAPABILITIES
+**The technologies we use every day** — proven tools, modern workflows, and stacks built to scale with your product.
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <h4><img src="https://api.iconify.design/lucide/smartphone.svg?color=%23ffffff" width="18" height="18" style="vertical-align: text-bottom;" alt="" /> Mobile Ecosystems</h4>
-      <p>Native & Cross-platform apps (iOS/Android) built for infinite scale.</p>
+    <td width="50%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/code-2.svg?color=%23ffffff" width="44" height="44" alt="" />
+      <h3>Languages</h3>
+      <p><strong>Logic that powers everything.</strong><br/>
+      Core languages for web, mobile backends, and intelligent systems.</p>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=python,js,ts,ruby,html,css&theme=dark&perline=6" width="520" alt="Languages" />
     </td>
-    <td width="50%">
-      <h4><img src="https://api.iconify.design/lucide/globe.svg?color=%23ffffff" width="18" height="18" style="vertical-align: text-bottom;" alt="" /> Web Architecture</h4>
-      <p>Modern, lightning-fast platforms using React, Next.js, and robust backends.</p>
+    <td width="50%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/layout-template.svg?color=%23ffffff" width="44" height="44" alt="" />
+      <h3>Frontend</h3>
+      <p><strong>Interfaces users love.</strong><br/>
+      Responsive, polished UIs with component-driven frameworks.</p>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,sass,tailwind&theme=dark&perline=5" width="440" alt="Frontend" />
     </td>
   </tr>
+  <tr><td colspan="2"><br/></td></tr>
   <tr>
-    <td width="50%">
-      <h4><img src="https://api.iconify.design/lucide/brain.svg?color=%23ffffff" width="18" height="18" style="vertical-align: text-bottom;" alt="" /> Applied Intelligence</h4>
-      <p>Custom AI/ML integrations to automate logic and predict market trends.</p>
+    <td width="50%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/server.svg?color=%23ffffff" width="44" height="44" alt="" />
+      <h3>Backend & Databases</h3>
+      <p><strong>Reliable data. Robust APIs.</strong><br/>
+      Server-side architecture and databases built for performance.</p>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,rails,postgres,mongodb,redis&theme=dark&perline=5" width="440" alt="Backend and databases" />
     </td>
-    <td width="50%">
-      <h4><img src="https://api.iconify.design/lucide/cloud.svg?color=%23ffffff" width="18" height="18" style="vertical-align: text-bottom;" alt="" /> Cloud Mastery</h4>
-      <p>DevOps, secure infrastructure, and automated CI/CD pipelines.</p>
+    <td width="50%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/bot.svg?color=%23ffffff" width="44" height="44" alt="" />
+      <h3>AI / Machine Learning</h3>
+      <p><strong>Smarter products, real outcomes.</strong><br/>
+      Models and pipelines that automate decisions and unlock insights.</p>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,opencv&theme=dark&perline=4" width="360" alt="AI and machine learning" />
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/cloud-cog.svg?color=%23ffffff" width="44" height="44" alt="" />
+      <h3>DevOps & Cloud</h3>
+      <p><strong>Ship faster. Sleep better.</strong><br/>
+      Infrastructure, tooling, and design systems that keep teams productive.</p>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,git,vscode,figma&theme=dark&perline=7" width="620" alt="DevOps and cloud" />
     </td>
   </tr>
 </table>
 
-> [!TIP]
-> **Experience Design:** We create high-fidelity UI/UX that converts users into brand advocates.
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Languages-6+-000000?style=flat-square&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Frontend-5+-000000?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Backend-5+-000000?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/AI%2FML-4+-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/DevOps-7+-000000?style=flat-square&logo=docker&logoColor=2496ED" />
+</p>
 
 ---
 
-## <img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23ffffff" width="24" height="24" style="vertical-align: middle;" alt="" /> GITHUB STATS
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23ffffff" width="28" height="28" style="vertical-align: middle;" alt="" /> CORE CAPABILITIES
 
-<!-- https://github.com/vn7n24fZKq/github-profile-summary-cards -->
+**We ship products end-to-end** — from concept and design through launch, scale, and long-term support.
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=admin-bnb&theme=github_dark" height="195em" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits?username=admin-bnb&theme=github_dark" height="195em" alt="Commits by hour" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=admin-bnb&theme=github_dark" height="195em" alt="Top languages by repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=admin-bnb&theme=github_dark" height="195em" alt="Top languages by commit" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=admin-bnb&theme=github_dark" alt="Contribution graph" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/smartphone.svg?color=%23ffffff" width="44" height="44" alt="" />
+      <h3>Mobile Ecosystems</h3>
+      <p><strong>Native feel. Cross-platform speed.</strong><br/>
+      iOS & Android apps built to perform under real-world load — not just in demos.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/globe.svg?color=%23ffffff" width="44" height="44" alt="" />
+      <h3>Web Architecture</h3>
+      <p><strong>Fast, accessible, conversion-ready.</strong><br/>
+      React & Next.js platforms with APIs and backends designed to grow with your business.</p>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/brain.svg?color=%23ffffff" width="44" height="44" alt="" />
+      <h3>Applied Intelligence</h3>
+      <p><strong>AI that earns its place in your product.</strong><br/>
+      Custom ML integrations that automate workflows and surface insights you can act on.</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/cloud.svg?color=%23ffffff" width="44" height="44" alt="" />
+      <h3>Cloud Mastery</h3>
+      <p><strong>Secure infrastructure. Reliable releases.</strong><br/>
+      DevOps, CI/CD, and cloud architecture so deployments are boring — in the best way.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mobile-Expertise-000000?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web-Expertise-000000?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/AI-Expertise-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Expertise-000000?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
+> [!NOTE]
+> **Experience Design** — High-fidelity UI/UX that turns first-time visitors into loyal users and brand advocates.
 
 ---
 
-## <img src="https://api.iconify.design/lucide/gem.svg?color=%23ffffff" width="24" height="24" style="vertical-align: middle;" alt="" /> WHY PARTNER WITH US?
+## <img src="https://api.iconify.design/lucide/gem.svg?color=%23ffffff" width="28" height="28" style="vertical-align: middle;" alt="" /> WHY PARTNER WITH US?
 
-- <img src="https://api.iconify.design/lucide/gauge.svg?color=%23ffffff" width="18" height="18" style="vertical-align: middle;" alt="" /> **Velocity & Agility:** Rapid iteration cycles so you see progress in real-time.
-- <img src="https://api.iconify.design/lucide/cpu.svg?color=%23ffffff" width="18" height="18" style="vertical-align: middle;" alt="" /> **Modern Stack:** We build with future-proof tech to ensure your product never goes obsolete.
-- <img src="https://api.iconify.design/lucide/handshake.svg?color=%23ffffff" width="18" height="18" style="vertical-align: middle;" alt="" /> **Full-Cycle Partnership:** From whiteboard sessions to final deployment and beyond.
+**You get a team that moves like a startup and delivers like an enterprise** — transparent communication, sharp execution, and zero fluff.
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/gauge.svg?color=%23ffffff" width="44" height="44" alt="" />
+      <h3>Velocity & Agility</h3>
+      <p>Short iteration cycles, visible progress every sprint, and fast pivots when priorities shift.</p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/cpu.svg?color=%23ffffff" width="44" height="44" alt="" />
+      <h3>Modern Stack</h3>
+      <p>Battle-tested technologies chosen for longevity — so your product stays relevant years from now.</p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://api.iconify.design/lucide/handshake.svg?color=%23ffffff" width="44" height="44" alt="" />
+      <h3>Full-Cycle Partnership</h3>
+      <p>Strategy, design, build, launch, and beyond — one team accountable from whiteboard to production.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Delivery-Agile_Sprints-000000?style=for-the-badge&logo=clockify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Approach-Client_First-000000?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quality-Production_Ready-000000?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
 
 <div align="center">
   <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Precision%20in%20every%20bit,%20excellence%20in%20every%20byte." alt="Bit and Bytes Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Precision%20in%20every%20bit,%20excellence%20in%20every%20byte.&theme=dark" alt="Bit and Bytes Quote" />
 </div>
 
 ---
